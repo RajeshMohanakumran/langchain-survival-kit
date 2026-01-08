@@ -190,8 +190,3 @@ MIT License
 - [LangChain Docs](https://python.langchain.com/)
 - [Groq Console](https://console.groq.com/)
 - [FAISS Documentation](https://faiss.ai/)
-
-## 👨‍💻 Author
-
-Built by Rajesh
-
