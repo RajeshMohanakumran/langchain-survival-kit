@@ -193,8 +193,9 @@ MIT License
 
 ## 👨‍💻 Author
 
-Built by [Your Name] - Final Year Computer Science Student
+Built by Rajesh
 
 ---
+
 
 **Star ⭐ this repo if it helped you!**
