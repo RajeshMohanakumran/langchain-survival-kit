@@ -195,7 +195,3 @@ MIT License
 
 Built by Rajesh
 
----
-
-
-**Star ⭐ this repo if it helped you!**
